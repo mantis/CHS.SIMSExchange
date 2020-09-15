@@ -1,0 +1,16 @@
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\bin\Release\staffmapping.xml
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\bin\Release\CHS.SIMSExchange.exe.config
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\bin\Release\CHS.SIMSExchange.exe
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\bin\Release\Microsoft.Exchange.WebServices.Auth.dll
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\bin\Release\Microsoft.Exchange.WebServices.dll
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\bin\Release\Microsoft.Exchange.WebServices.xml
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\bin\Release\Microsoft.Exchange.WebServices.Auth.xml
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\obj\Release\MainWindow.baml
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\obj\Release\MainWindow.g.cs
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\obj\Release\App.g.cs
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\obj\Release\CHS.SIMSExchange_MarkupCompile.cache
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\obj\Release\CHS.SIMSExchange.g.resources
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\obj\Release\CHS.SIMSExchange.Properties.Resources.resources
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\obj\Release\CHS.SIMSExchange.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\obj\Release\CHS.SIMSExchange.exe
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange\obj\Release\CHS.SIMSExchange.csprojResolveAssemblyReference.cache

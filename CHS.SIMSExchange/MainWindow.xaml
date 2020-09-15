@@ -1,0 +1,17 @@
+﻿<Window x:Class="CHS.SIMSExchange.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SIMS Exchange" Height="335" Width="718" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Icon="dnet.ico">
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" Name="job" Text="" VerticalAlignment="Top" />
+        <Button Content="Update" Height="35" HorizontalAlignment="Center" Margin="0,40,0,0" Name="update" VerticalAlignment="Top" Width="220" IsDefault="True" IsEnabled="True" FontSize="14" Click="update_Click" />
+        <ProgressBar Height="24" Margin="12,85,12,0" Name="progress" VerticalAlignment="Top" IsEnabled="False" SmallChange="1" LargeChange="10" Maximum="600" />
+        <ProgressBar Height="24" Margin="12,115,12,0" Name="progress2" VerticalAlignment="Top" IsEnabled="False" SmallChange="1" LargeChange="10" Maximum="600" />
+        <ProgressBar Height="24" Margin="12,145,12,0" Name="progress3" VerticalAlignment="Top" IsEnabled="False" SmallChange="1" LargeChange="10" Maximum="600" />
+        <ProgressBar Height="24" Margin="12,175,12,0" Name="progress4" VerticalAlignment="Top" IsEnabled="False" SmallChange="1" LargeChange="10" Maximum="600" />
+        <TextBlock HorizontalAlignment="Center" Margin="0,205,0,0" Name="message" Text="" VerticalAlignment="Top" />
+        <TextBlock HorizontalAlignment="Center" Margin="0,225,0,0" Name="message2" Text="" VerticalAlignment="Top" />
+        <TextBlock HorizontalAlignment="Center" Margin="0,245,0,0" Name="message3" Text="" VerticalAlignment="Top" />
+        <TextBlock HorizontalAlignment="Center" Margin="0,265,0,0" Name="message4" Text="" VerticalAlignment="Top" />
+    </Grid>
+</Window>

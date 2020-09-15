@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Terms>
+  <Term name="Autum" startDate="02/09/2013" endDate="19/12/2013" startWeekNum="1">
+    <HalfTerm startDate="28/10/2013" endDate="01/11/2013" />
+  </Term>
+  <Term name="Spring" startDate="06/01/2014" endDate="10/04/2014" startWeekNum="2">
+    <HalfTerm startDate="24/02/2014" endDate="28/02/2014" />
+  </Term>
+  <Term name="Summer" startDate="28/04/2014" endDate="18/07/2014" startWeekNum="1">
+    <HalfTerm startDate="26/05/2014" endDate="30/05/2014" />
+  </Term>
+</Terms>

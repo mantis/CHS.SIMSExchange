@@ -1,0 +1,39 @@
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\staffmapping.xml
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\CHS.SIMSExchange.Service.exe.config
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\CHS.SIMSExchange.Service.exe
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\CHS.SIMSExchange.Service.pdb
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.Exchange.WebServices.dll
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.ProjectInstaller.resources
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.Properties.Resources.resources
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.Service.resources
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.Tester.resources
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.exe
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.pdb
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.Exchange.WebServices.pdb
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.Exchange.WebServices.xml
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+H:\Documents\Visual Studio 2012\Projects\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\staffmapping.xml
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\CHS.SIMSExchange.Service.exe.config
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\CHS.SIMSExchange.Service.exe
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\CHS.SIMSExchange.Service.pdb
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.Exchange.WebServices.dll
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.Exchange.WebServices.pdb
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.Exchange.WebServices.xml
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.csprojResolveAssemblyReference.cache
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.ProjectInstaller.resources
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.Properties.Resources.resources
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.Service.resources
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.Tester.resources
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.csproj.GenerateResource.Cache
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.exe
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.pdb
+H:\CHS Onedrive\OneDrive - Crickhowell High School 1\CHS.SIMSExchange\CHS.SIMSExchange.Service\obj\Debug\CHS.SIMSExchange.Service.csproj.CoreCompileInputs.cache

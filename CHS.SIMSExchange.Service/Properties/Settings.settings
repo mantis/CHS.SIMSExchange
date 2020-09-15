@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CHS.SIMSExchange.Service.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CoverUNC" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\cri-svr-004.crick.internal\Cover</Value>
+    </Setting>
+    <Setting Name="LessonTimes" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">:Reg=8.40-9.05:1=9.05-10.05:2=10.05-11.05:3=11.30-12.30:4=12.30-13.30:5=14.30-15.30</Value>
+    </Setting>
+    <Setting Name="Cover" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ExchangeUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://schoolmail.crickhowell-hs.powys.sch.uk</Value>
+    </Setting>
+    <Setting Name="EXIMPUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">exchimp</Value>
+    </Setting>
+    <Setting Name="EXIMPPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">exchange</Value>
+    </Setting>
+    <Setting Name="AdditionalCoverDays" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Rooms" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Staff" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TwoWeekTimetable" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Domain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
